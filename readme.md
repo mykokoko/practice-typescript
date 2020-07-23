@@ -1,0 +1,2 @@
+- 기초 링크 
+- - https://velog.io/@denmark-banana/series/TypeScript-이론-정리
